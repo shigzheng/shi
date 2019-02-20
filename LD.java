@@ -8,6 +8,9 @@ public class LinkDemo {
 		l.addNode("d");
 		史国政
 		的说法是否
+		sdfafafafdasfsadfas
+
+dsafaf辅导费三
 		l.addNode("b");
 		l.addNode("c");
 		l.addNode("d");
