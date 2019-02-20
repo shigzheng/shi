@@ -7,6 +7,7 @@ public class LinkDemo {
 		l.addNode("c");
 		l.addNode("d");
 		史国政
+		的说法是否
 		l.addNode("b");
 		l.addNode("c");
 		l.addNode("d");
